@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource explains that capital flows are the ultimate causal determinant
   of urban spatial dynamics, that all roads lead inexorably back to capitalism.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/22f9521defb0de6b3fc407e3ffeb7794_klingler_memo2.pdf
+file: /media/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/22f9521defb0de6b3fc407e3ffeb7794_klingler_memo2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: klingler_memo2.pdf
 uid: 22f9521d-efb0-de6b-3fc4-07e3ffeb7794
