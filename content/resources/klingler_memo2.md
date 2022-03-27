@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ee3b874-9889-d073-b5c4-011f4e176b51
 resourcetype: Document
 title: klingler_memo2.pdf
 uid: 22f9521d-efb0-de6b-3fc4-07e3ffeb7794

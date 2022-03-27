@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ee3b874-9889-d073-b5c4-011f4e176b51
 resourcetype: Document
 title: joo_finalpaper.pdf
 uid: 408724d2-027f-11fd-04cf-6894cdb3b576

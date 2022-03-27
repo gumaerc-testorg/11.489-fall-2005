@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ee3b874-9889-d073-b5c4-011f4e176b51
 resourcetype: Document
 title: joo_memo2.pdf
 uid: 2de68ff0-fe0c-bcd1-ad58-747425f2fb59

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ee3b874-9889-d073-b5c4-011f4e176b51
 resourcetype: Document
 title: icampbell_memo2.pdf
 uid: 9e3b1939-8009-6167-6a51-06ad2316aa08

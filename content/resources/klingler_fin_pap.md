@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ee3b874-9889-d073-b5c4-011f4e176b51
 resourcetype: Document
 title: klingler_fin_pap.pdf
 uid: f1db2650-d887-a707-3c0f-0ccd51e3d2cc
