@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course schedule with the lecture topics covered
+  in the lecture sessions and the key dates for the presentations and other papers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the student responsiblities and
+  roles in the assignments and a selection of exemplary student work as well.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,10 +34,10 @@ MEMO 2
 Lindsay Cambell
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/icampbell_memo1))
+({{% resource_link 84b72527-244b-61e6-831b-42589b9928c3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/icampbell_memo2))
+({{% resource_link 9e3b1939-8009-6167-6a51-06ad2316aa08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +49,7 @@ Danny Klingler
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/klingler_memo2))
+({{% resource_link 22f9521d-efb0-de6b-3fc4-07e3ffeb7794 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,4 +59,4 @@ Danny Klingler
 Final Paper
 -----------
 
-"Queen (City) of Feast, Queen of Famine: Economic Structures and Agency in the "Fall" of Cincinnati" - Danny Klingler ([PDF]({{< baseurl >}}/resources/klingler_fin_pap))
+"Queen (City) of Feast, Queen of Famine: Economic Structures and Agency in the "Fall" of Cincinnati" - Danny Klingler ({{% resource_link f1db2650-d887-a707-3c0f-0ccd51e3d2cc "PDF" %}})

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the complete information on the course objectives,
+  student responsibilities and the grading criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
