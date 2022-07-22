@@ -6,6 +6,7 @@ file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/f1db2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: klingler_fin_pap.pdf
 uid: f1db2650-d887-a707-3c0f-0ccd51e3d2cc
 ---
 This resource explains the Economic Structures and Agency in the "Fall" of Cincinnati and provides important bibliographical references for better understanding.
-

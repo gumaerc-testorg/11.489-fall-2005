@@ -8,6 +8,7 @@ file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/2de68
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: joo_memo2.pdf
 uid: 2de68ff0-fe0c-bcd1-ad58-747425f2fb59
 ---
 This resource explains how to organize and manage industrial activities in space constrained Korea, following Japanese strategy of concentrating resources on limited land. It describes its beginning and the spatial regional development process.
-

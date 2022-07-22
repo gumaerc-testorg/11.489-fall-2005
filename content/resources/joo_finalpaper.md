@@ -9,6 +9,7 @@ file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/40872
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: joo_finalpaper.pdf
 uid: 408724d2-027f-11fd-04cf-6894cdb3b576
 ---
 This resource gives the story of Gumi as an example for a rare successful case of Korea?s decentralized locality due to its unusual economic growth. it also provides raw data from Korea National Statistical Office for year 2000 to reflect this growth. It further explains Industrial cluster formation, development, Gumi in the decentralization era and provides important bibliographic references.
-

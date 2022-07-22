@@ -7,6 +7,7 @@ file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/a739b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: joo_memo1.pdf
 uid: a739b07e-35d1-343d-08ab-08f21d2718c7
 ---
 This resource explains the different meaning of urban growth and provides different theories of Mumford, Jacobs, and Harvey in the context of Seoul for supporting the same.
-
