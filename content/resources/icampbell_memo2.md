@@ -5,6 +5,7 @@ description: This resource presents the picture of urban history in terms of the
   interests before attempting to use theories of urban growth and decline to inform
   contemporary planning practice.
 file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/9e3b1939800961676a5106ad2316aa08_icampbell_memo2.pdf
+file_size: 109503
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: This resource explains the different meaning of urban growth and pr
   different theories of Mumford, Jacobs, and Harvey in the context of Seoul for supporting
   the same.
 file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/a739b07e35d1343d08ab08f21d2718c7_joo_memo1.pdf
+file_size: 124026
 file_type: application/pdf
 learning_resource_types:
 - Assignments
