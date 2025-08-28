@@ -5,7 +5,7 @@ description: This resource gives the story of Gumi as an example for a rare succ
   provides raw data from Korea National Statistical Office for year 2000 to reflect
   this growth. It further explains Industrial cluster formation, development, Gumi
   in the decentralization era and provides important bibliographic references.
-file: /courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/408724d2027f11fd04cf6894cdb3b576_joo_finalpaper.pdf
+file: /ol-ocw-studio-app/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/408724d2027f11fd04cf6894cdb3b576_joo_finalpaper.pdf
 file_size: 188154
 file_type: application/pdf
 learning_resource_types:
